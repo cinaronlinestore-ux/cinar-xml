@@ -1,16 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Products>
-<Product>
-<Product_code><![CDATA[8514409016392]]></Product_code>
-<Product_id>3818</Product_id>
-<Barcode>8514409016392</Barcode>
-<Name><![CDATA[Renault Jant Göbek Arması 4 Adet Takım]]></Name>
-<mainCategory><![CDATA[Tüm Ürünler]]></mainCategory>
-<Price>150.00</Price>
-<CurrencyType>TRL</CurrencyType>
-<Tax>20</Tax>
-<Stock>25</Stock>
-<Brand><![CDATA[Volkan]]></Brand>
-<Image1>http://cdn1.xmlbankasi.com/p1/lazfpsckhljq/image/data/resimler/renault-jant-gobek-armasi-4-adet-takim-4276.jpg</Image1>
-</Product>
 </Products>
